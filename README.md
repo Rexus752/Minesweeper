@@ -1,2 +1,2 @@
 # Minesweeper
-A simple Minesweeper I coded for a school project
+Simple Minesweeper for a school project
