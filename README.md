@@ -1,2 +1,2 @@
 # Minesweeper
-Simple Minesweeper for a school project
+Simple Minesweeper for a school project.
